@@ -1,2 +1,2 @@
 # coding_practice
-C and C++ practice - algorithms and data structures
+Algorithms and data structures practice in C
