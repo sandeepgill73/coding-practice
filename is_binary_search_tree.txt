@@ -1,0 +1,23 @@
+/* Hidden stub code will pass a root argument to the function below. Complete the function to solve the challenge. Hint: you may want to write one or more helper functions.  
+
+The Node struct is defined as follows:
+   struct Node {
+      int data;
+      Node* left;
+      Node* right;
+   }
+*/
+
+bool checkBST(Node* root)  {
+	return check_data(root, 0, 10000);
+}
+
+bool check_data(Node *n, int min, int max){
+	if(n == NULL)
+		return true;
+    
+	if((n->data <= min) || (n->data >= max))
+		return false;
+    
+	return (check_data(n->left, min, n->data) && check_data(n->right, n->data, max));
+}
