@@ -1,0 +1,203 @@
+$ ./ll
+
+ -------Printing list Start------- 
+
+ -------Printing list End------- 
+
+ creating list with headnode as [5]
+
+ Adding node to end of list with value [6]
+
+ Adding node to end of list with value [7]
+
+ Adding node to end of list with value [8]
+
+ Adding node to end of list with value [9]
+
+ -------Printing list Start------- 
+
+ [5] 
+
+ [6] 
+
+ [7] 
+
+ [8] 
+
+ [9] 
+
+ -------Printing list End------- 
+
+ Adding node to beginning of list with value [4]
+
+ Adding node to beginning of list with value [3]
+
+ Adding node to beginning of list with value [2]
+
+ Adding node to beginning of list with value [1]
+
+ -------Printing list Start------- 
+
+ [1] 
+
+ [2] 
+
+ [3] 
+
+ [4] 
+
+ [5] 
+
+ [6] 
+
+ [7] 
+
+ [8] 
+
+ [9] 
+
+ -------Printing list End------- 
+
+ Searching the list for value [1] 
+
+ Search passed [val = 1]
+
+ -------Printing list Start------- 
+
+ [1] 
+
+ [2] 
+
+ [3] 
+
+ [4] 
+
+ [5] 
+
+ [6] 
+
+ [7] 
+
+ [8] 
+
+ [9] 
+
+ -------Printing list End------- 
+
+ Deleting value [1] from list
+
+ Searching the list for value [1] 
+
+ delete [val = 1]  passed 
+
+ -------Printing list Start------- 
+
+ [2] 
+
+ [3] 
+
+ [4] 
+
+ [5] 
+
+ [6] 
+
+ [7] 
+
+ [8] 
+
+ [9] 
+
+ -------Printing list End------- 
+
+ Searching the list for value [5] 
+
+ Search passed [val = 5]
+
+ -------Printing list Start------- 
+
+ [2] 
+
+ [3] 
+
+ [4] 
+
+ [5] 
+
+ [6] 
+
+ [7] 
+
+ [8] 
+
+ [9] 
+
+ -------Printing list End------- 
+
+ Deleting value [5] from list
+
+ Searching the list for value [5] 
+
+ delete [val = 5]  passed 
+
+ -------Printing list Start------- 
+
+ [2] 
+
+ [3] 
+
+ [4] 
+
+ [6] 
+
+ [7] 
+
+ [8] 
+
+ [9] 
+
+ -------Printing list End------- 
+
+ Searching the list for value [9] 
+
+ Search passed [val = 9]
+
+ -------Printing list Start------- 
+
+ [2] 
+
+ [3] 
+
+ [4] 
+
+ [6] 
+
+ [7] 
+
+ [8] 
+
+ [9] 
+
+ -------Printing list End------- 
+
+ Deleting value [9] from list
+
+ Searching the list for value [9] 
+
+ delete [val = 9]  passed 
+
+ -------Printing list Start------- 
+
+ [2] 
+
+ [3] 
+
+ [4] 
+
+ [6] 
+
+ [7] 
+
+ [8] 
+
+ -------Printing list End-------
